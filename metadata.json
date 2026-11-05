@@ -1,0 +1,6 @@
+{
+  "name": "Estorvix | Find Your Place",
+  "description": "Discover homes that fit your lifestyle with Estorvix. Explore properties, compare your options, and connect with our team.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
